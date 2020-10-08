@@ -1,2 +1,14 @@
 LOAD prefabloader.lib
-LOAD
+for prefabloader.lib {
+  
+  using System.C;
+  using System.C++;
+  using System.h;
+  using System.IO;
+  using FileExecutor;
+  using overjamed.GTU;
+  using System.java;
+  using System.FileInputStream;
+  using System.FileOutputStream;
+  
+}
