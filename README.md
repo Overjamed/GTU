@@ -1,2 +1,2 @@
 # GTU
-Globales Trainings Urpresens
+Globale Trainings Urpresens
